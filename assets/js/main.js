@@ -1,6 +1,5 @@
 const myBox = document.getElementById('my_box');
 
-
 for ( i = 1; i <= 100; i++){
 
     // multipli di 3 e di 5

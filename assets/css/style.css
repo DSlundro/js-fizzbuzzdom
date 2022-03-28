@@ -1,6 +1,6 @@
 body{background-color: #183A4A;}
 
-.container{max-width: 1300px !important;}
+.container{max-width: 1100px !important;}
 
 #my_box div {
     width: 130px;
@@ -9,10 +9,8 @@ body{background-color: #183A4A;}
     display: flex;
     justify-content: center;
     align-items: center;
-
     border-radius: 50%;
 }
-
 #my_box div:hover{
     box-shadow: 0 0 20px 1px white;
     cursor: pointer;
